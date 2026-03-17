@@ -1,0 +1,67 @@
+# 🎯 Personal Brand System
+### An AI-powered framework for building and scaling a client's personal brand
+
+---
+
+## Project Overview
+
+**Status:** 🟡 In active development
+**Type:** Client project — AI-assisted brand architecture
+**Model:** Claude (Anthropic)
+
+This system is a structured, AI-powered framework designed to help a client build a consistent, scalable personal brand from the ground up. It covers everything from defining the foundational voice to executing a content strategy that builds an engaged audience over time.
+
+---
+
+## The Problem
+
+Most personal brand efforts fail not because of a lack of ideas — but because of a lack of system. Content gets created randomly, voice shifts between posts, and there's no clear positioning that makes the person memorable in their niche.
+
+This project solves that by building the infrastructure first, then the content.
+
+---
+
+## What This System Covers
+
+### 1. 🗣️ Voice & Tone Definition
+Establishing how the client communicates — their vocabulary, their style, what they say and what they deliberately don't. This becomes the foundation every piece of content is built on.
+
+### 2. 📍 LinkedIn Positioning
+Crafting a clear professional identity on LinkedIn: headline, about section, featured content, and connection strategy — all aligned to a specific audience and goal.
+
+### 3. 📅 Content Strategy
+A repeatable framework for generating, structuring, and publishing content consistently. Includes content pillars, post formats, and a publishing cadence designed around the client's capacity.
+
+### 4. 👥 Audience Building
+Systematic approach to growing a relevant, engaged audience — not just followers. Includes engagement protocols, community interaction guidelines, and growth tracking.
+
+### 5. 🛍️ Digital Products
+Framework for identifying, packaging, and launching digital products that align with the client's brand and audience — turning expertise into scalable income streams.
+
+---
+
+## How Claude Powers This
+
+Each component of the system is backed by a dedicated Claude agent that:
+- Understands the client's voice and positioning
+- Generates on-brand content drafts
+- Provides strategic recommendations based on defined goals
+- Iterates based on performance and feedback
+
+---
+
+## Current Stage
+
+- [x] Voice & tone definition
+- [x] LinkedIn positioning framework
+- [ ] Content strategy — in progress
+- [ ] Audience building protocols
+- [ ] Digital product roadmap
+
+---
+
+## Tech Stack
+
+- **AI Model**: Claude (Anthropic)
+- **Workflow**: Claude Projects with custom system prompts per component
+- **Collaboration**: Google Workspace
