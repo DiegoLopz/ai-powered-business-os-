@@ -1,0 +1,87 @@
+# 🌿 Loyalty Points App — Flores Medicinales
+### Digital infrastructure for a local business with zero prior tech stack
+
+---
+
+## Project Overview
+
+**Status:** 🟡 In active development
+**Type:** Client project — full digital infrastructure build
+**Business:** Local medicinal flower shop (in-person + WhatsApp delivery)
+**Model:** Claude (Anthropic)
+
+This project designs and implements a customer loyalty points system for a local medicinal flower business — building their entire digital foundation from scratch in the most accessible and scalable way possible.
+
+---
+
+## The Problem
+
+The business operates entirely in person and via WhatsApp. They have loyal customers but no way to reward or track that loyalty. No digital infrastructure exists. No CRM, no records, no system.
+
+The goal: build something simple enough for employees to operate immediately, powerful enough to scale as the business grows.
+
+---
+
+## How It Works
+
+### For Customers
+Each customer receives a **personalized digital card** with a unique QR code — an image they can save on their phone or print physically. No app download required. No account to create.
+
+### For Employees
+Everything is managed through a **web app** at the point of sale:
+- Scan the customer's QR code at purchase
+- View the customer's complete profile and point history
+- Register points earned from the transaction
+
+### For the Business Owner
+Full visibility into customer activity, point balances, and redemption history — without needing technical knowledge to operate it.
+
+---
+
+## System Components
+
+### 📇 Customer Digital Card
+- Unique QR code per customer
+- Shareable image format (WhatsApp-friendly)
+- Works both digitally and printed
+
+### 🖥️ Employee Web App
+- QR scanner via phone camera
+- Customer profile view
+- Point registration interface
+- Simple, fast, no training required
+
+### 🗄️ Backend & Data
+- Customer database
+- Transaction history
+- Points ledger
+- Basic admin dashboard
+
+---
+
+## Design Principles
+
+- **Zero friction for the customer** — no downloads, no accounts
+- **Zero tech barrier for employees** — if you can use WhatsApp, you can use this
+- **Built to scale** — architecture supports future features (redemptions, tiers, promotions)
+- **Accessible first** — designed for a business that has never had digital tools
+
+---
+
+## Current Stage
+
+- [x] System architecture defined
+- [x] Customer flow mapped
+- [x] Employee app wireframe
+- [ ] QR generation system — in progress
+- [ ] Web app development — in progress
+- [ ] Testing with business staff
+
+---
+
+## Tech Stack
+
+- **AI Support**: Claude (Anthropic) — operational logic, communication templates, process design
+- **Frontend**: Web app (mobile-first)
+- **QR Generation**: Dynamic QR per customer
+- **Database**: TBD based on scale requirements
